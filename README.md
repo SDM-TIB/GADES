@@ -7,11 +7,7 @@ GARUM's python implementation.
 
 ## Usage
 1. Enter in root directory of repository. <br>
-2. Switch to virtual environment. <br>
-    ```
-    source bin/activate
-    ```
-3. Run script. <br>
+2. Run script. <br>
     ```
     python3 myontology.py
     ```
