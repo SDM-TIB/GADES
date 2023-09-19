@@ -3,6 +3,7 @@ GARUM's python implementation.
 
 ## Directory Structure
 > ontologies/: include all ontology files and KG files.
+
 > myontology.py: the main script.
 
 ## Usage
