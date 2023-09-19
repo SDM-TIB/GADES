@@ -1,0 +1,8 @@
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/10612096	0.7240
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/10803935	0.7240
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/108201	0.7240
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/1201891	0.7240
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/10612096	0.7240
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/10803935	0.7240
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/108201	0.7240
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/1201891	0.7240

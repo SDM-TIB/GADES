@@ -1,0 +1,12 @@
+__pycache__/
+.vscode/
+ontologies/*.nt
+ontologies/*.nq
+ontologies/*.owl
+resources/
+bp_annt_2008/
+.vscode/
+bin/
+include/
+lib/
+lib64/

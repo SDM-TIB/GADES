@@ -1,0 +1,2 @@
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/10600617	0.5938
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/10600617	0.5938

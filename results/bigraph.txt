@@ -1,0 +1,26 @@
+25
+http://research.tib.eu/clarify2020/entity/1006662	http://research.tib.eu/clarify2020/entity/10600617	0.71875000
+http://research.tib.eu/clarify2020/entity/1006662	http://research.tib.eu/clarify2020/entity/10612096	0.59375000
+http://research.tib.eu/clarify2020/entity/1006662	http://research.tib.eu/clarify2020/entity/10803935	0.59375000
+http://research.tib.eu/clarify2020/entity/1006662	http://research.tib.eu/clarify2020/entity/108201	0.59375000
+http://research.tib.eu/clarify2020/entity/1006662	http://research.tib.eu/clarify2020/entity/1201891	0.59375000
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/10600617	0.59375000
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/10612096	0.72395833
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/10803935	0.72395833
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/108201	0.72395833
+http://research.tib.eu/clarify2020/entity/101826	http://research.tib.eu/clarify2020/entity/1201891	0.72395833
+http://research.tib.eu/clarify2020/entity/102008	http://research.tib.eu/clarify2020/entity/10600617	0.71875000
+http://research.tib.eu/clarify2020/entity/102008	http://research.tib.eu/clarify2020/entity/10612096	0.59375000
+http://research.tib.eu/clarify2020/entity/102008	http://research.tib.eu/clarify2020/entity/10803935	0.59375000
+http://research.tib.eu/clarify2020/entity/102008	http://research.tib.eu/clarify2020/entity/108201	0.59375000
+http://research.tib.eu/clarify2020/entity/102008	http://research.tib.eu/clarify2020/entity/1201891	0.59375000
+http://research.tib.eu/clarify2020/entity/104468	http://research.tib.eu/clarify2020/entity/10600617	0.62239583
+http://research.tib.eu/clarify2020/entity/104468	http://research.tib.eu/clarify2020/entity/10612096	0.52864583
+http://research.tib.eu/clarify2020/entity/104468	http://research.tib.eu/clarify2020/entity/10803935	0.52864583
+http://research.tib.eu/clarify2020/entity/104468	http://research.tib.eu/clarify2020/entity/108201	0.52864583
+http://research.tib.eu/clarify2020/entity/104468	http://research.tib.eu/clarify2020/entity/1201891	0.52864583
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/10600617	0.59375000
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/10612096	0.72395833
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/10803935	0.72395833
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/108201	0.72395833
+http://research.tib.eu/clarify2020/entity/104473	http://research.tib.eu/clarify2020/entity/1201891	0.72395833
